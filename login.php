@@ -1,3 +1,7 @@
 login.php
 
-mastera commit edildi
+mastera commit edildi   
+
+
+
+mailing brunchına yazıldı
